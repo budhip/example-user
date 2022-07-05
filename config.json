@@ -1,0 +1,15 @@
+{
+  "debug": true,
+  "server": {
+    "user_address": ":9588",
+    "user_address_http": ":9588",
+    "article_address": "localhost:8567"
+  },
+  "database": {
+    "host": "localhost",
+    "port": "5432",
+    "user": "postgres",
+    "pass": "abcd1234",
+    "name": "userexample"
+  }
+}
